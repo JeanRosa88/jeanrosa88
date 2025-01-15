@@ -1,3 +1,8 @@
+Oi 👋, Eu sou Jean Rosa
+Apaixonado ❣, por Análise de Dados no Mundo Digital
+🌱 Atualmente estou aprendendo SQL e Power BI
+💬 Me pergunte sobre SQL,Power BI e futuramente Python
+📫 Você me acha através do e-mail jeansousarosa@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eu.jeanrosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jeanrosa88) 
