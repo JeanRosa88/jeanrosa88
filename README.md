@@ -1,7 +1,10 @@
 Oi 👋, Eu sou Jean Rosa
 Apaixonado ❣, por Análise de Dados no Mundo Digital
+
 🌱 Atualmente estou aprendendo SQL e Power BI
+
 💬 Me pergunte sobre SQL,Power BI e futuramente Python
+
 📫 Você me acha através do e-mail jeansousarosa@gmail.com
 
 ## 🌐 Socials:
@@ -15,6 +18,5 @@ Apaixonado ❣, por Análise de Dados no Mundo Digital
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRosa88&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JeanRosa88&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
